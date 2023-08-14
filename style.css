@@ -76,7 +76,7 @@
   padding: 0;
 
   background-color: transparent;
-  border: none;
+  border: 1px solid transparent;
   outline: none;
 
   cursor: pointer;
@@ -92,11 +92,11 @@
 }
 
 .footer-copyright {
-  color: #efefef;
   font-family: 'Open Sans', Arial, sans-serif;
   font-size: 14px;
   font-weight: 300;
   line-height: 2.14;
+  color: #efefef;
 
   margin: 0;
 
