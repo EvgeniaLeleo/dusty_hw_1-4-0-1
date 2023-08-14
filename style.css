@@ -45,11 +45,6 @@
   outline: none;
 }
 
-.form-button:focus,
-.form-button:active {
-  border: 1px solid #efefef;
-}
-
 .form-input::-webkit-input-placeholder {
   color: #fff;
 }
@@ -80,6 +75,11 @@
   outline: none;
 
   cursor: pointer;
+}
+
+.form-button:focus,
+.form-button:active {
+  border: 1px solid #efefef;
 }
 
 .form-description {
