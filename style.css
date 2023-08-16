@@ -2,7 +2,8 @@
   background-color: #5b6460;
 
   box-sizing: border-box;
-  width: 710px;
+  width: 100%;
+  max-width: 1200px;
   padding: 100px 146px;
 }
 
