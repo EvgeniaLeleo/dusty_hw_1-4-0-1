@@ -42,7 +42,7 @@
   box-sizing: border-box;
 
   background-color: transparent;
-  border: 1px solid transparent;
+  border: none;
   border-bottom: 1px solid #efefef;
   outline: none;
 }
