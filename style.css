@@ -47,21 +47,7 @@
   outline: none;
 }
 
-.form-input::-webkit-input-placeholder {
-  color: #fff;
-}
-
-/* Firefox 19+ */
-.form-input::-moz-placeholder {
-  color: #fff;
-}
-
-/* Firefox 18- */
-.form-input:-moz-placeholder {
-  color: #fff;
-}
-
-.form-input:-ms-input-placeholder {
+.form-input::placeholder {
   color: #fff;
 }
 
